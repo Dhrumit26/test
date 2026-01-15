@@ -41,3 +41,4 @@ Now push any commit: you should see `🚨 FAILURE DETECTED` and then `🧠 AI DI
 Edit `tests/test_demo.py` and change the failing assertion to a correct one, then push again.
 
 
+trigger Wed Jan 14 16:12:01 PST 2026
