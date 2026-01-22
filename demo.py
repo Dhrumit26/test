@@ -1,4 +1,11 @@
 def add(a: int, b: int) -> int:
-    # Intentionally broken code to trigger CI failure
-    # Testing enhanced AI source code analysis with import inference
-    return a + b  # Correct: performs addition as expected
+    """Add two integers and return the result.
+    
+    Args:
+        a: First integer
+        b: Second integer
+        
+    Returns:
+        The sum of a and b
+    """
+    return a + b
